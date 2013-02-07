@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d817f3fc-5f63-482e-a284-e89922b4000b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/codebreaker" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebreaker/game.rb" afterPath="$PROJECT_DIR$/lib/codebreaker/game.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/codebreaker/game_spec.rb" afterPath="$PROJECT_DIR$/spec/codebreaker/game_spec.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="codebreaker.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d817f3fc-5f63-482e-a284-e89922b4000b" time="1360274172827" ignored="false" />
+    <file path="/Dummy.txt" changelist="d817f3fc-5f63-482e-a284-e89922b4000b" time="1360279615760" ignored="false" />
     <file path="/codebreaker_submits_guess.feature" changelist="d817f3fc-5f63-482e-a284-e89922b4000b" time="1360226228114" ignored="false" />
     <file path="/a.rxml" changelist="d817f3fc-5f63-482e-a284-e89922b4000b" time="1360226358557" ignored="false" />
     <file path="/a.rb" changelist="d817f3fc-5f63-482e-a284-e89922b4000b" time="1360226347869" ignored="false" />
@@ -599,7 +596,11 @@
       <created>1360274178062</created>
       <updated>1360274178062</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added executable finished CH5">
+      <created>1360279620596</created>
+      <updated>1360279620596</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -664,7 +665,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="added guard and .rspec" />
+    <option name="LAST_COMMIT_MESSAGE" value="added executable finished CH5" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -679,6 +680,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="added spec_helper.rb" />
     <MESSAGE value="added guard and .rspec" />
+    <MESSAGE value="added executable finished CH5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
